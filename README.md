@@ -1,3 +1,3 @@
 # Flexblog
 Projeto FlexBlog
-Primeitos códigos
+Primeiros códigos
